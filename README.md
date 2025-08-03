@@ -1,0 +1,2 @@
+# ABAQUS_Bending_Frame_Dissipated_Energy_Damping_Factor
+ABAQUS_Bending_Frame_Dissipated_Energy_Damping_Factor
